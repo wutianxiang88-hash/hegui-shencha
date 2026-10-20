@@ -3,3 +3,8 @@ __pycache__/
 .DS_Store
 Icon
 Icon
+# 工作目录残留（不进仓库）
+*.xlsx
+*.pptx
+*.docx
+*.pdf
